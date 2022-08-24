@@ -4,3 +4,5 @@ this is version 1 of my file
 hi, i'm lyw, i'm in git, not github
 hi, i'm lyw, i'm in git, not github
 hi, i'm lyw, i'm in git, not github
+
+this is version 2
